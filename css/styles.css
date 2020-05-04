@@ -1,0 +1,36 @@
+/* =========== TAG SELECTORS =========== */
+body {
+  background-color: #ffc8bd;
+}
+
+h1 {
+  color: #bb3b0e;
+  font-size: 140px;
+}
+
+img {
+  background-color: #827397;
+}
+
+img:hover {
+  background-color: #4cd3c2;
+}
+
+/* =========== CLASS SELECTORS =========== */
+.bacon {
+  background-color: #d4ebd0;
+  border: 6px solid #91ff84;
+}
+
+.broccoli {
+  background-color: #c70039;
+}
+
+.circular {
+  border-radius: 50%;
+}
+
+/* =========== ID SELECTORS =========== */
+#heading {
+  color: blue;
+}
